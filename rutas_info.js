@@ -5,8 +5,8 @@
   "dfficulty" : [ "Dificultad: media.",
                  "test"
                 ],
-  "img"       : [ "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/llanos_lloreda.jpg",
-                "test"
+  "img"       : [ "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/llanos_lloreda.jpg",
+                "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/pozo_noja.jpg"
                 ],
   "distance"  : [ "Distancia: 17198 metros.", 
                  "test"
