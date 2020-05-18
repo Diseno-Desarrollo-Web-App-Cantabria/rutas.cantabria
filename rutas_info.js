@@ -9,7 +9,7 @@
                 ],
   "img"       : [ "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/llanos.png" ,
                   "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/pozo_noja.jpg",
-                  "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/la_penilla.jpg"
+                  ""
                 ],
   "distance"  : [ "Distancia: 17198 metros.", 
                   "Distancia: 8082 metros",
