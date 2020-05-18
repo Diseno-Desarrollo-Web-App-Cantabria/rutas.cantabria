@@ -9,7 +9,7 @@
                 ],
   "img"       : [ "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/llanos.png" ,
                   "https://diseno-desarrollo-web-app-cantabria.github.io/rutas.cantabria/img/pozo_noja.jpg",
-                  ""
+                  "https://1.bp.blogspot.com/-h6-WXweiyq4/XsLPnBsN0nI/AAAAAAAAAFw/iXsNELzE6AIMOHbVL-CQNLj4eqlc_mIgACPcBGAYYCw/s400/IMG_20200518_180018.jpg"
                 ],
   "distance"  : [ "Distancia: 17198 metros.", 
                   "Distancia: 8082 metros",
